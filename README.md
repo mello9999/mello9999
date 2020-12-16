@@ -9,7 +9,7 @@
 ## Connect with me 
 
 ## Languages and tools  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natchariyawong25)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natchariyawong25&layout=compact)](https://github.com/Natchariyawong25/github-readme-stats)
 
 ## :memo: Latest Blog Posts
 > Medium blog is coming soon ...

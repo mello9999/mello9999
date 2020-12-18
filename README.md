@@ -1,5 +1,6 @@
 ### Hi there, I'm Natchariya wongamnuayporn 👋
-## I'm student in Computer Engineering at KMUTT.
+## I'm student in Computer Engineering at KMUTT (CPE-KMUTT #32) 
+
 - :pushpin: I’m currently working on a ` my github & linkedin profile` :tada: 
 - :notebook: I’m currently learning ` Data Engineering ` 
 - :telescope: I’m looking to `... ` 
@@ -7,6 +8,7 @@
 - :black_joker: Fun fact: I love to ` listen R&B music and watch Conan cartoon ` 
 
 ## Connect with me 
+
 
 ## Languages and tools  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natchariyawong25&layout=compact)](https://github.com/Natchariyawong25/github-readme-stats)

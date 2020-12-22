@@ -2,8 +2,8 @@
 ## I'm student in Computer Engineering at KMUTT (CPE-KMUTT #32) 
 
 - :pushpin: I’m currently working on a ` my github & linkedin profile` :tada: 
-- :notebook: I’m currently learning ` Data Engineering ` 
-- :telescope: I’m looking to `... ` 
+- :notebook: I’m currently learning ` Data Engineering and Marketing Technology ('Data Analyst') ` 
+- :telescope: I’m looking to `a good collaborate` 
 - :dart: 2021 Goals: `1.Make my complete resume website and Hard working in year3 term2 ` 
 - :black_joker: Fun fact: I love to ` listen R&B music and watch Conan cartoon ` 
 

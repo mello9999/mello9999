@@ -1,6 +1,5 @@
 ### Hi there, I'm Natchariya wongamnuayporn 👋
-## I'm student in Computer Engineering at KMUTT (CPE-KMUTT #32) 
-
+#### I'm student in Computer Engineering (CPE-KMUTT #32) from King Mongkut's University of Technology Thonburi
 - :pushpin: I’m currently working on a ` my github & linkedin profile` :tada: 
 - :notebook: I’m currently learning ` Data Engineering and Marketing Technology ('Data Analyst') ` 
 - :telescope: I’m looking to `a good collaborate` 

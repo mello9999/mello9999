@@ -6,8 +6,6 @@
 - :dart: 2021 Goals: `1.Make my complete resume website and Hard working in year3 term2 ` 
 - :black_joker: Fun fact: I love to ` listen R&B music and watch Conan cartoon ` 
 
-## Connect with me 
-
 
 ## Languages and tools  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natchariyawong25&layout=compact)](https://github.com/Natchariyawong25/github-readme-stats)

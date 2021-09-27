@@ -8,7 +8,7 @@
 
 
 ## Languages and tools  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mello9999&layout=compact)](https://github.com/Natchariyawong25/github-readme-stats)
 
 ## :memo: Latest Blog Posts
 - medium : `https://natchariya-wong.medium.com/` 
@@ -16,5 +16,6 @@
 
 
 ## Dev community 
+![์Natchariya's github stats](https://github-readme-stats.vercel.app/api?username=mello9999)
 
 

@@ -18,6 +18,8 @@
 
 ## Languages and tools  
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/R_logo.svg" alt="R"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/html_logo.svg" alt="HTML"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn"></code>
 <code><img height="27" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="django"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>

@@ -3,8 +3,8 @@
 
 <a href="https://www.linkedin.com/in/natchariya-wongamnuyporn-a258201b8/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height=24></a> 
 <a href="https://natchariya-wong.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=24></a> 
-<a href="https://www.facebook.com/Natchariya.wongamnuayporn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=24>
-<a href="https://www.instagram.com/kao_nw1999/"><img src="https://img.shields.io/badge/inatragram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" height=24>
+<a href="https://www.facebook.com/Natchariya.wongamnuayporn/"><img src="https://img.shields.io/badge/Natchariya wongamnuayporn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=24>
+<a href="https://www.instagram.com/kao_nw1999/"><img src="https://img.shields.io/badge/@kao_nw1999-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" height=24>
 </a> 
 
 ### Glad to see you here!

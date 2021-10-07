@@ -28,6 +28,8 @@
 
 ### Github Stats:
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mello9999&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mello9999&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mello9999&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mello9999&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=12&theme=onedark"/>
 </div>
+
+

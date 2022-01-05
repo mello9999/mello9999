@@ -9,7 +9,7 @@
 
 ### Glad to see you here!
 - :pushpin: I’m currently `into Data role` and working on a `Machine Learning and Deep Learning` :tada: 
-- :notebook: I’m currently learning ` Data Engineering Data Analyst and Blockchain/Cryptocurrency ` 
+- :notebook: I’m currently learning ` Data Engineering/Data Analyst , QA/Tester and Blockchain/Cryptocurrency ` 
 - :telescope: I’m looking to `a good collaborate and good relationship` 
 - :dart: 2021 - 2022 Goals: `Hard working on senior project and Internship before real work ` 
 - :black_joker: Fun fact: I love to ` listen INTO1's music and watch Conan cartoon ` 

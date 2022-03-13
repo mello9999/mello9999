@@ -27,7 +27,15 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://aptude.com/wp-content/uploads/2021/02/powerbi_logo-1.png" alt="powerBI"></code>
 <code><img height="27" src="https://www.absentdata.com/wp-content/uploads/2018/01/Tableau-logo.jpg" alt="Tableau"></code>
-
+<code><img height="27" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS"></code>
+<code><img height="28" src="https://idroot.us/wp-content/uploads/2021/06/dbeaver-logo.png" alt="dbeaver"></code>
+<code><img height="28" src="https://logos-world.net/wp-content/uploads/2022/01/HubSpot-Logo.png" alt="HubSpot"></code>
+<code><img height="28" src="https://res.cloudinary.com/damien1/w_400,c_scale,f_auto,q_auto,dpr_3.0/blog/selenium_logo.png" alt="selenium"></code>
+<code><img height="28" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="html_css_js"></code>
+<code><img height="28" src="https://www.nicepng.com/png/detail/67-671824_heroku-logo-heroku.png" alt="heroku"></code>
+<code><img height="28" src="https://miro.medium.com/proxy/1*50rG5q86I99_o1vGGTying.png" alt="dialogflow"></code>
+<code><img height="28" src="https://qph.fs.quoracdn.net/main-qimg-3f0f77a0ee2cbb179ace7ce64099f5fb" alt="line"></code>
+ 
 ### Github Stats:
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mello9999&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />

@@ -1,5 +1,5 @@
 ## Hi there, I'm [mello9999!](https://github.com/mello9999/) Natchariya wongamnuayporn 👋
-#### I'm student in Computer Engineering (CPE-KMUTT #32) from King Mongkut's University of Technology Thonburi
+#### I'm graduated in Computer Engineering (CPE-KMUTT #32) from King Mongkut's University of Technology Thonburi
 
 <a href="https://www.linkedin.com/in/natchariya-wongamnuyporn-a258201b8/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height=24></a> 
 <a href="https://natchariya-wong.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=24></a> 

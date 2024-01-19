@@ -8,13 +8,13 @@
 </a> 
 
 ### Glad to see you here!
-- :pushpin: I’m currently `into Data role` and working on a `Machine Learning and Deep Learning` :tada: 
-- :notebook: I’m currently learning ` Data Engineering/Data Analyst , QA/Tester and Blockchain/Cryptocurrency ` 
+- :pushpin: I’m currently `into QA role` and working on a `Manual Testing and End processing about Database e.g. Batch, API testing` :tada: 
+- :notebook: I’m currently learning ` Data Engineering/Data Analyst , QA/Tester about Automate testing ` :tada::tada:
 - :telescope: I’m looking to `a good collaborate and good relationship` 
-- :dart: 2021 - 2022 Goals: `Hard working on senior project and Internship before real work ` 
-- :black_joker: Fun fact: I love to ` listen INTO1's music and watch Conan cartoon ` 
+- :dart: 2024 - 2025 Goals: `Hard working on work and Improve skill about Automate testing, Data analyst ` 
+- :black_joker: Fun fact: I love to ` listen music style is chilling and watch Conan cartoon ` 
 - ✨ Fandom: `I'm Insider of INTO1 ` 
-- 💻 I love learning `new technologies eg. BlockChain / Cryptocurrency `
+- :tada::tada::tada::tada: 💻 I love learning `into a new things/knoledges `:tada::tada::tada::tada:
 
 ## Languages and tools  
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
